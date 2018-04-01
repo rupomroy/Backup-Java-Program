@@ -1,0 +1,12 @@
+package com.qspiders.String;
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String S3="java";
+		System.out.println(S3.indexOf('a'));
+
+	}
+
+}
